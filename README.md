@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="#projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#problema">Problema</a>
+  <a href="#-problema">Problema</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#algoritmos-genéticos">Algoritmos Genéticos</a>
+  <a href="#-algoritmos-genéticos">Algoritmos Genéticos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#estrutura-da-entrada">Arquitetura</a>
+  <a href="#-estrutura-da-entrada">Arquitetura</a>
 </p>
 
 ## ✦ Projeto
