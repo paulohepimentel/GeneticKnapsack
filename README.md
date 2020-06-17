@@ -15,7 +15,7 @@
 
 ## ✦ Motivação
 <p align="justify">
-O problema da Mochila 0/1 (0/1 Knapsack Problem) possui as seguintes características, nesse famoso problema cada ítem pode ser escolhido no máximo uma vez. O objetivo é escolher a melhor combinação possível, ou seja, a que alcance o maior somatório de valor dos itens</p>
+O problema da Mochila 0/1 (0/1 Knapsack Problem) possui as algumas características interessantes, nesse famoso problema cada ítem pode ser escolhido no máximo uma vez. O objetivo é escolher a melhor combinação possível, ou seja, a que alcance o maior somatório de valor dos itens</p>
 
 <p align="justify">
 O funcionamento dos algoritmos genéticos consiste em tratar as possíveis soluções de um problema como "indivíduos" de uma "população", que irá "evoluir" a cada iteração ou "geração". Para isso é necessário construir um modelo de evolução onde os indivíduos sejam soluções de um problema. Os passos do algoritmo são os seguintes:</p>
