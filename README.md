@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-algoritmos-genéticos">Algoritmos Genéticos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-estrutura-da-entrada">Arquitetura</a>
+  <a href="#-estrutura-da-entrada">Estrutura da entrada</a>
 </p>
 
 ## ✦ Projeto
