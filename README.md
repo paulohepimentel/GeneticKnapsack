@@ -25,7 +25,7 @@
 - Um critério de escolha das soluções que permanecerão na população ou que serão retirados desta;
 - Um procedimento para introduzir periodicamente alterações em algumas soluções da população. Desse modo mantém-se a diversidade da população e a possibilidade de se produzir soluções inovadoras para serem avaliadas pelo critério de seleção dos mais aptos
 
-<p align="justify"><b>O algoritmo é executado enquanto houver havendo uma melhora da função objetivo. Foi definido como critério de parada do algoritmo o encerramento após três iterações sem melhora de resultados.</b></p>
+<p align="justify"><b>O algoritmo é executado enquanto houver uma melhora da função objetivo (alcançar a melhor combinação de itens). Foi definido como critério de parada do algoritmo o encerramento após três iterações sem melhora de resultados.</b></p>
 
 ## ✦ Estrutura da entrada
 <p align="justify">A estrutura do arquivo de entrada é a seguinte:</p>
