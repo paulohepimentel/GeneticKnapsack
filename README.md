@@ -5,7 +5,9 @@
 <p align="center">
   <a href="#projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#motivação">Motivação</a>
+  <a href="#problema">Problema</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#algoritmos-genéticos">Algoritmos Genéticos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#estrutura-da-entrada">Arquitetura</a>
 </p>
@@ -13,9 +15,10 @@
 ## ✦ Projeto
 <p align="justify">O trabalho teve como objetivo a implementação prática de uma meta-heurística baseada em algoritmos genéticos, aplicada ao famoso problema da Mochila 0/1.</p>
 
-## ✦ Motivação
+## ✦ Problema
 <p align="justify">O problema da Mochila 0/1 (0/1 Knapsack Problem) possui as algumas características interessantes, nesse famoso problema cada ítem pode ser escolhido no máximo uma vez. O objetivo é escolher a melhor combinação possível, ou seja, a que alcance o maior somatório de valor dos itens</p>
 
+## ✦ Algoritmos Genéticos
 <p align="justify">O funcionamento de algoritmos genéticos consiste em tratar as possíveis soluções de um problema como "indivíduos" de uma "população", que irá "evoluir" a cada iteração ou "geração". Para isso é necessário construir um modelo de evolução onde os indivíduos sejam soluções de um problema. Os passos do algoritmo são os seguintes:</p>
 
 - Representação das possíveis soluções do problema no formato de um código genético;
