@@ -26,7 +26,7 @@
 - Existência de um método para medir a qualidade de uma solução potencial;
 - Um procedimento de combinação de soluções para gerar novos indivíduos na população;
 - Um critério de escolha das soluções que permanecerão na população ou que serão retirados desta;
-- Um procedimento para introduzir periodicamente alterações em algumas soluções da população. Desse modo mantém-se a diversidade da população e a possibilidade de se produzir soluções inovadoras para serem avaliadas pelo critério de seleção dos mais aptos
+- Um procedimento para introduzir periodicamente alterações em algumas soluções da população.
 
 <p align="justify"><b>O algoritmo é executado enquanto houver uma melhora da função objetivo (alcançar a melhor combinação de itens). Foi definido como critério de parada do algoritmo o encerramento após três iterações sem melhora de resultados.</b></p>
 
